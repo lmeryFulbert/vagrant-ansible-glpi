@@ -20,7 +20,7 @@ ludovic.mery@ac-orleans-tours.fr
   
   * PHP 8.2.7
 
-  * MariaDB
+  * MariaDB Ver 15.1 Distrib 10.11.6-MariaDB
 
   * Last release glpi
 
