@@ -22,6 +22,8 @@ ludovic.mery@ac-orleans-tours.fr
 
   * MariaDB
 
+  * Last release glpi
+
 ## Usage
 
     vagrant plugin install vagrant-vbguest
