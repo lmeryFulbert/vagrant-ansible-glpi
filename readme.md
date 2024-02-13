@@ -1,4 +1,4 @@
-# Stack Vagrant Provisionning via Docker
+# Stack LAMP Provisionning via Ansible
 
 ## Fulbert Team
 
